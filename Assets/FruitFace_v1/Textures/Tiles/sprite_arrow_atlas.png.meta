@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: eac7e1cdd756b32418e2d9afd6871172
+timeCreated: 1426872900
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite_arrow_atlas_0
+    21300002: sprite_arrow_atlas_1
+    21300004: sprite_arrow_atlas_2
+    21300006: sprite_arrow_atlas_3
+    21300008: sprite_arrow_atlas_4
+    21300010: sprite_arrow_atlas_5
+    21300012: sprite_arrow_atlas_6
+    21300014: sprite_arrow_atlas_7
+    21300016: sprite_arrow_atlas_8
+    21300018: sprite_arrow_atlas_9
+    21300020: sprite_arrow_atlas_10
+    21300022: sprite_arrow_atlas_11
+    21300024: sprite_arrow_atlas_12
+    21300026: sprite_arrow_atlas_13
+    21300028: sprite_arrow_atlas_14
+    21300030: sprite_arrow_atlas_15
+    21300032: sprite_arrow_atlas_16
+    21300034: sprite_arrow_atlas_17
+    21300036: sprite_arrow_atlas_18
+    21300038: sprite_arrow_atlas_19
+    21300040: sprite_arrow_atlas_20
+    21300042: sprite_arrow_atlas_21
+    21300044: sprite_arrow_atlas_22
+    21300046: sprite_arrow_atlas_23
+    21300048: sprite_arrow_atlas_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 700
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprite_arrow_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1557
+        width: 428
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1557
+        width: 428
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1557
+        width: 428
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1557
+        width: 428
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1045
+        width: 428
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1067
+        width: 183
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1067
+        width: 183
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1317
+        width: 425
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1059
+        width: 425
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 555
+        width: 183
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 555
+        width: 183
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 805
+        width: 425
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 555
+        width: 183
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 555
+        width: 183
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 805
+        width: 425
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 547
+        width: 425
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 547
+        width: 425
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 43
+        width: 183
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 43
+        width: 183
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 293
+        width: 425
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 43
+        width: 183
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 43
+        width: 183
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 293
+        width: 425
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 35
+        width: 425
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_arrow_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 35
+        width: 425
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

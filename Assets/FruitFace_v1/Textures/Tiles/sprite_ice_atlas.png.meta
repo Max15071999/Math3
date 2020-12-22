@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: cb66485cf8cc4c34a9d0d7673fd1e442
+timeCreated: 1426872395
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite_ice_atlas_0
+    21300002: sprite_ice_atlas_1
+    21300004: sprite_ice_atlas_2
+    21300006: sprite_ice_atlas_3
+    21300008: sprite_ice_atlas_4
+    21300010: sprite_ice_atlas_5
+    21300012: sprite_ice_atlas_6
+    21300014: sprite_ice_atlas_7
+    21300016: sprite_ice_atlas_8
+    21300018: sprite_ice_atlas_9
+    21300020: sprite_ice_atlas_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 630
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprite_ice_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 449
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_ice_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 614
+        width: 166
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_ice_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 628
+        width: 170
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_ice_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 398
+        width: 158
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_ice_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 424
+        width: 141
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_ice_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 197
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_ice_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 169
+        width: 174
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_ice_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 173
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_ice_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 180
+        width: 233
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_ice_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 21
+        width: 161
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_ice_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 139
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
